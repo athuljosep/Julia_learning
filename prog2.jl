@@ -1,8 +1,0 @@
-print("Enter first number: ")
-a = parse(UInt8,readline())
-print("Enter second number: ")
-b = parse(UInt8,readline(STDIN))
-print("Enter operation: ")
-op = readline()
-ans = eval(a)
-print(ans)
